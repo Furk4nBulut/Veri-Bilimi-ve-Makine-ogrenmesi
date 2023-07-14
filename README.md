@@ -1,1 +1,1 @@
-# BU repo python kütüphanelerini öğrenme sürecimi içeriyor.
+# BU repo python kütüphanelerini,makine öğrenmesi notlarımı içeriyor.
