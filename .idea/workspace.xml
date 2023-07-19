@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40c3d83b-6d0d-4984-8520-9bc68a403d74" name="Changes" comment="" />
+    <list default="true" id="40c3d83b-6d0d-4984-8520-9bc68a403d74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MachineLearning/Churn_Modelling.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/Deeplearning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/Deeplearning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/NaturalLanguageProcesssing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/NaturalLanguageProcesssing.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,16 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "GitCourse",
-    "last_opened_file_path": "C:/Users/furka/DataspellProjects/Veri-Bilimi-ve-Makine-ogrenmesi/MachineLearning",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;GitCourse&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/furka/DataspellProjects/Veri-Bilimi-ve-Makine-ogrenmesi/MachineLearning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\furka\DataspellProjects\Veri-Bilimi-ve-Makine-ogrenmesi\MachineLearning" />
