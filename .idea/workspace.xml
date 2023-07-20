@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40c3d83b-6d0d-4984-8520-9bc68a403d74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MachineLearning/Churn_Modelling.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/CNN-ConvolutionalNeuralNetwork.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/GreadSearch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/LDA-LinearDiscriminantAnalysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/LineerRegression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/PCA-PrincipalComponentAnalysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/Wine.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/XGBoost.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/k_fold_classvalidation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/satislar.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/Deeplearning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/Deeplearning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/NaturalLanguageProcesssing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/NaturalLanguageProcesssing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
