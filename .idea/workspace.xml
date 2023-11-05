@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40c3d83b-6d0d-4984-8520-9bc68a403d74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/cnn_LSTM_Karma2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wind-farm/datapreprocessing.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wind-farm/tez/Facebook-Prophet.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wind-farm/tez/GRU.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wind-farm/tez/LSTM.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wind-farm/tez/SARIMA.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wind-farm/tez/SARIMAX.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wind-farm/tez/wind forecasting.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wind-farm/tez/windfarm.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dsProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dsProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/ClassificationHomework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/ClassificationHomework.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/cnn_LSTM_Karma2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/cnn_LSTM_Karma2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wind-farm/datapreprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/wind-farm/datapreprocessing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +76,21 @@
       <workItem from="1694760512273" duration="608000" />
       <workItem from="1694851493795" duration="13671000" />
       <workItem from="1694872500146" duration="1907000" />
+      <workItem from="1694880628758" duration="19000" />
+      <workItem from="1694969000963" duration="2268000" />
+      <workItem from="1695021331551" duration="3822000" />
+      <workItem from="1695036459055" duration="916000" />
+      <workItem from="1695049989282" duration="599000" />
+      <workItem from="1695051303234" duration="597000" />
+      <workItem from="1695059568250" duration="725000" />
+      <workItem from="1695126556323" duration="17000" />
+      <workItem from="1695143059064" duration="24000" />
+      <workItem from="1695145964499" duration="457000" />
+      <workItem from="1695147662725" duration="9000" />
+      <workItem from="1695404890241" duration="365000" />
+      <workItem from="1695457156178" duration="3000" />
+      <workItem from="1695480890645" duration="11000" />
+      <workItem from="1699211405769" duration="4485000" />
     </task>
     <servers />
   </component>
